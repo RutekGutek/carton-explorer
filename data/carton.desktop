@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Carton Explorer
+GenericName=File Manager
+Comment=Szybki, nowoczesny eksplorator plików
+Exec=carton %F
+Icon=carton
+Terminal=false
+Categories=System;FileTools;FileManager;Utility;
+MimeType=inode/directory;
+StartupWMClass=carton
+Keywords=files;explorer;manager;pliki;eksplorator;

@@ -1,0 +1,11 @@
+# ninja log v5
+0	471	1794847381130566236	CMakeFiles/carton_core.dir/src/util.cpp.o	d34620b80ee5ecc7
+1	833	1794847381494558818	CMakeFiles/test_copy.dir/tests/test_copy.cpp.o	b4a154aff65ffce8
+0	1224	1794847381882550907	CMakeFiles/test_core.dir/tests/test_core.cpp.o	90e61375f4148e76
+0	1265	1794847381922550089	CMakeFiles/carton_core.dir/src/copyengine.cpp.o	46efe810212b4189
+0	1541	1794847382202544391	CMakeFiles/carton_core.dir/src/fastfs.cpp.o	6657c505127543cb
+0	1783	1794847382442539505	CMakeFiles/carton_core.dir/src/index.cpp.o	60a4a3a86f2c8dae
+0	2606	1794847383266522747	CMakeFiles/carton_core.dir/src/query.cpp.o	f4b6cbd5192ea4aa
+2606	2617	1794847383278522506	libcarton_core.a	8c5eb52e058a438a
+2617	2656	1794847383314521772	test_copy	9a7debf09d9c0040
+2617	2657	1794847383314521772	test_core	6b27d1f320dca9a9

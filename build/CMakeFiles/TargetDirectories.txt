@@ -1,0 +1,5 @@
+/home/rutek/Downloads/carton-linux/build/CMakeFiles/carton_core.dir
+/home/rutek/Downloads/carton-linux/build/CMakeFiles/test_core.dir
+/home/rutek/Downloads/carton-linux/build/CMakeFiles/test_copy.dir
+/home/rutek/Downloads/carton-linux/build/CMakeFiles/edit_cache.dir
+/home/rutek/Downloads/carton-linux/build/CMakeFiles/rebuild_cache.dir
